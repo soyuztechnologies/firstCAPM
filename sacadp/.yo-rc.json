@@ -1,0 +1,11 @@
+{
+  "generator-anubhav-sac": {
+    "projectName": "sacadp",
+    "newDir": true,
+    "hdiContainerName": "sacproject-hdidb-anubhav",
+    "callingHost": "sactrial-saceu10-6c90bw8vbgd4ihw5iqy7f3yd.eu10.hanacloudservices.cloud.sap",
+    "useNamedUser": false,
+    "multiTenantSupport": false,
+    "tenantMode": "dedicated"
+  }
+}

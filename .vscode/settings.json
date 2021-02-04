@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "dialect": "SQLite",
+            "name": "My SQLite Connection",
+            "database": "/home/user/projects/firstcapm/anubhav.db"
+        }
+    ]
+}
